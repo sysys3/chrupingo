@@ -1,0 +1,2 @@
+# chrupingo
+chrupingo bingo
